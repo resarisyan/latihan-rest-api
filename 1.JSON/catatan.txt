@@ -1,0 +1,16 @@
+// Tanda {} digunakan untuk memulai membuat object di Json
+// Untuk membuat object di Json harus ada "key":"value"
+// Di Json tidak bisa menghubungkan 2 object menggunakan , tetapi harus menggunakan array terlebih dahulu
+// di json tidak bisa menggunakan komentar
+
+Di PHP
+function json_encode() = digunakan untuk mengubah array atau object yang kita punya menjadi json
+function json_decode() = digunakan untuk mengubah json menjadi array
+function file_get_contents = salah satu cara untuk mengambil json
+
+Di Javascript
+JSON.stringify() = function json_encode()
+JSON.parse() = function json_decode()
+
+Mengakses JSON
+ajax = XMLHttpRequest atau JQuery

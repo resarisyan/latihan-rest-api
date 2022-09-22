@@ -1,0 +1,22 @@
+[
+{
+    "nama": "Resa Auliana Risyan",
+    "umur": 32,
+    "nrp":"20120018",
+    "lulus":true,
+    "hobby":["coding","gaming"],
+    "pembingbing":{"pembingbing1": "Sandhika",
+                    "pembingbing2": "Sandhika"
+                    }
+},
+{
+    "nama": "Resa Auliana Risyan",
+    "umur": 32,
+    "nrp":"20120018",
+    "lulus":true,
+    "hobby":["coding","gaming"],
+    "pembingbing":{"pembingbing1": "Sandhika",
+                    "pembingbing2": "Sandhika"
+                    }
+}
+]
